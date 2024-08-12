@@ -13,6 +13,7 @@ Real-time Notifications: Displays notifications like "File sent successfully" an
 Project Structure
 markdown
 Copy code
+
 Data_compression/
 │
 ├── src/
@@ -30,6 +31,7 @@ Data_compression/
 ├── README.md
 ├── requirements.txt
 └── architecture.png
+
 How It Works
 Sender Side:
 
@@ -46,7 +48,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/Data_compression.git
+git clone https://github.com/Rahul21082004/Data_compression.git
 cd Data_compression
 Install dependencies:
 
