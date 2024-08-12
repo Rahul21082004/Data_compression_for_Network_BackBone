@@ -14,24 +14,6 @@ Project Structure
 markdown
 Copy code
 
-Data_compression/
-│
-├── src/
-│   ├── compression/
-│   │   ├── deflate_compression.py
-│   │   ├── multi_compression.py
-│   │   └── __init__.py
-│   ├── network/
-│   │   ├── sender.py
-│   │   ├── receiver.py
-│   │   └── __init__.py
-│   ├── gui.py
-│   └── __init__.py
-│
-├── README.md
-├── requirements.txt
-└── architecture.png
-
 How It Works
 Sender Side:
 
